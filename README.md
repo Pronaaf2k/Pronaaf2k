@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiyeel</h1>
-<h3 align="center">A soft engineering student from BD</h3>
+<h3 align="center">A compsci and eng student from BD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronaaf2k&label=Profile%20views&color=0e75b6&style=flat" alt="pronaaf2k" /> </p>
 
