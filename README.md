@@ -16,8 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronaaf2k&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronaaf2k&show_icons=true&locale=en&layout=compact" alt="pronaaf2k" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronaaf2k&show_icons=true&locale=en" alt="pronaaf2k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronaaf2k&" alt="pronaaf2k" /></p>
