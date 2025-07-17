@@ -133,8 +133,18 @@
 <h3 align="center">🎮 Gamer Profiles</h3>
 
 <p align="center">
+  <a href="https://tracker.gg/valorant/profile/riot/pronaaf2k%232000/overview?platform=pc&playlist=deathmatch&season=ac12e9b3-47e6-9599-8fa1-0bb473e5efc7">
+    <img src="https://img.shields.io/badge/Valorant%20Tracker-Stats-F04F54?style=for-the-badge&logo=riot-games&logoColor=white" alt="Valorant Tracker Stats"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://steamcommunity.com/profiles/76561198254451484">
     <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://r6.tracker.network/r6siege/profile/ubi/pronaaf2k/overview">
+    <img src="https://img.shields.io/badge/R6%20Tracker-Stats-00AAFF?style=for-the-badge&logo=ubisoft&logoColor=white" alt="R6 Tracker Stats"/>
   </a>
 </p>
 
