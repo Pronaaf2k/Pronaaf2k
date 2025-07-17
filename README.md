@@ -27,8 +27,6 @@
 - **UNIX** – Terminal-based Grocery Inventory System in C
   - Lightweight, CRUD, file storage
 
-*(Feel free to add more highlighted projects here)*
-
 ---
 
 ### 🛠️ Tech Stack
