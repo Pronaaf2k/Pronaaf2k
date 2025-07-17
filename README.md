@@ -24,8 +24,21 @@
 
 ### 🚀 Featured Projects
 
-- **UNIX** – Terminal-based Grocery Inventory System in C
-  - Lightweight, CRUD, file storage
+- [**EDUTrack**](https://github.com/Pronaaf2k/EDUTrack)  
+  Modern web-based Records and Data System (RDS) for North South University.  
+  <sup>Built with <b>ReactJS</b>, <b>Vite</b>, <b>Tailwind CSS</b>, and <b>Firebase</b>. Streamlines academic data management and student self-service.</sup>
+
+- [**ACADEMIQ**](https://github.com/Pronaaf2k/ACADEMIQ)  
+  Framework for AI-enhanced, scalable student systems in budget-constrained universities.  
+  <sup>HTML, AI Concepts</sup>
+
+- [**SuperResAI**](https://github.com/Pronaaf2k/SuperResAI)  
+  Machine learning-based super-resolution model for restoring images to their original quality.  
+  <sup>Jupyter Notebook, Python, ML</sup>
+
+- [**QuickSight**](https://github.com/Pronaaf2k/QuickSight)  
+  Accessible Flutter+Python app for colorblind and visually impaired users.  
+  <sup>AI-powered image-to-text, colorblind simulation, and text-to-speech for CSE299 Capstone, North South University.</sup>
 
 ---
 
