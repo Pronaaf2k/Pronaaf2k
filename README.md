@@ -130,4 +130,13 @@
   <img src="https://komarev.com/ghpvc/?username=Pronaaf2k&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+<h3 align="center">🎮 Gamer Profiles</h3>
+
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561198254451484">
+    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
