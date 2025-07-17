@@ -116,10 +116,13 @@
 
 ---
 
-### 🎧 Spotify — Recently Played
+<h3 align="center">🎧 Spotify — Recently Played</h3>
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=1&width=840px)](https://open.spotify.com/user/roqimbocza5854qug9swb16y9)
-
+<p align="center">
+  <a href="https://open.spotify.com/user/roqimbocza5854qug9swb16y9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=5&width=600" alt="Spotify Recently Played"/>
+  </a>
+</p>
 
 ---
 
