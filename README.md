@@ -118,7 +118,8 @@
 
 ### 🎧 Spotify — Recently Played
 
-[![Spotify](https://img.shields.io/badge/Spotify-Recently_Played-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/roqimbocza5854qug9swb16y9)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=1&width=840px)](https://open.spotify.com/user/roqimbocza5854qug9swb16y9)
+
 
 ---
 
