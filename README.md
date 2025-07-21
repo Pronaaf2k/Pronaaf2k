@@ -3,150 +3,79 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/your-profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/samiyeel-alim-binaaf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<h3 align="center">CSE student | Deep learning & accessibility | Web, data & design | Bangladesh 🇧🇩</h3>
-<hr/>
-
-<p align="center">
-  I build accessible tech, craft smart scrapers, and bring data to life with AI/ML & design.<br>
-  Always exploring, always coding.<br>
-  <a href="mailto:benaaf2000@gmail.com">benaaf2000@gmail.com</a>
+  <a href="mailto:benaaf2000@gmail.com">📧 benaaf2000@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/samiyeel-alim-binaaf">LinkedIn</a> •
+  <a href="https://github.com/Pronaaf2k">GitHub</a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 **B.Sc. in Computer Science & Engineering** @ North South University
-- 🦾 Focus: AI/ML, deep learning, accessibility, full-stack web apps, automation
-- ⚡ Passionate about making tech more inclusive, fun, and data-driven
-- 🤖 Scraping & automating Spotify and more with Python
+## 🧑‍💻 About Me
+I’m a CSE undergrad at North South University passionate about AI/ML, accessibility, and full-stack web. I build:
+- **Inclusive EdTech & accessibility apps** (Flutter, React, Python)  
+- **Data pipelines & scrapers** (Spotify, web data)  
+- **Deep-learning experiments** (TensorFlow, PyTorch)
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-#### Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="32"/>
-</p>
+| Languages               | Frameworks & Tools                                                                                                     | AI & Data                          |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> ReactJS           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24"/> TensorFlow  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JS/TS   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24"/> Flutter        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24"/> PyTorch     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java      | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" width="24" alt="Tailwind CSS"/> Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24"/> NumPy        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24"/> Firebase        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24"/> Pandas      |
 
-#### Frameworks, Platforms & Tools
-<p align="center">
-  <!-- Deep Learning/AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="32"/>
-  <!-- Web/Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="32"/>
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/>
-  <!-- Scripting/Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32"/>
-  <!-- Docs/Markup -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="32"/>
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="32"/>
-  <img src="https://img.shields.io/badge/Krita-3BABFF?style=flat&logo=krita&logoColor=white" height="32"/>
-</p>
+---
 
-#### Python Scripting & Data Toolbelt
+## 🎨 Design and Creativity Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/requests-HTTP-blue?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/dotenv-env-green?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/base64-encoding-yellow?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/re-regex-informational?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/os-automation-blueviolet?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/time-timer-lightgrey?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/json-parse-orange?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/datetime-timestamp-ff69b4?logo=python&style=flat-square"/>
-  <img src="https://img.shields.io/badge/itertools-combinatorics-critical?logo=python&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere&logoColor=white" alt="Adobe Premiere Pro"/>
+  <img src="https://img.shields.io/badge/SketchBook-1093FF?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk SketchBook"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- [**EDUTrack**](https://github.com/Pronaaf2k/EDUTrack)  
-  Modern web-based Records & Data System for North South University  
-  <sup>ReactJS • Vite • Tailwind CSS • Firebase</sup>
-
-- [**ACADEMIQ**](https://github.com/Pronaaf2k/ACADEMIQ)  
-  AI-powered, scalable student systems for universities  
-  <sup>HTML • AI Concepts</sup>
-
-- [**SuperResAI**](https://github.com/Pronaaf2k/SuperResAI)  
-  ML-based image super-resolution to restore image quality  
-  <sup>Python • Jupyter Notebook • ML</sup>
-
-- [**QuickSight**](https://github.com/Pronaaf2k/QuickSight)  
-  Accessibility app for colorblind & visually impaired users (CSE299 Capstone)  
-  <sup>Flutter • Python • AI image-to-text & colorblind simulation</sup>
+| Project                                          | Description                                                       | Tech Stack                              |
+|--------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------|
+| [**EDUTrack**](https://github.com/Pronaaf2k/EDUTrack)       | Web-based records & data system for North South University         | React · Vite · Tailwind · Firebase       |
+| [**ACADEMIQ**](https://github.com/Pronaaf2k/ACADEMIQ)       | AI-powered, scalable student systems for universities *(research)* | HTML · AI Concepts                      |
+| [**SuperResAI**](https://github.com/Pronaaf2k/SuperResAI)   | Image super-resolution pipeline to restore & enhance quality       | Python · Jupyter · ML                   |
+| [**QuickSight**](https://github.com/Pronaaf2k/QuickSight)   | Accessibility app for colorblind & visually impaired users         | Flutter · Python · AI image-to-text      |
 
 ---
 
-### 📊 Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=donut&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&hide_border=true"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&count_private=true&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">🎧 Spotify — Recently Played</h3>
+## 🎧 Spotify & 🎮 Gaming
 
-<p align="center">
-  <a href="https://open.spotify.com/user/roqimbocza5854qug9swb16y9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=5&width=600" alt="Spotify Recently Played"/>
-  </a>
-</p>
+#### 🎧 Recently Played
+<a href="https://open.spotify.com/user/roqimbocza5854qug9swb16y9">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=5&width=600"/>
+</a>
+
+#### 🎮 Gamer Profiles
+[![Valorant Tracker](https://img.shields.io/badge/Valorant%20Stats-F04F54?style=for-the-badge&logo=riot-games)](https://tracker.gg/valorant/profile/riot/pronaaf2k%232000/overview)
+[![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198254451484)
+[![R6 Tracker](https://img.shields.io/badge/R6%20Stats-00AAFF?style=for-the-badge&logo=ubisoft)](https://r6.tracker.network/r6siege/profile/ubi/pronaaf2k/overview)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pronaaf2k&style=flat-square&color=blue" alt="Profile Views"/>
+  ✨ Thanks for stopping by! ✨
 </p>
 
-<h3 align="center">🎮 Gamer Profiles</h3>
-
-<p align="center">
-  <a href="https://tracker.gg/valorant/profile/riot/pronaaf2k%232000/overview?platform=pc&playlist=deathmatch&season=ac12e9b3-47e6-9599-8fa1-0bb473e5efc7">
-    <img src="https://img.shields.io/badge/Valorant%20Tracker-Stats-F04F54?style=for-the-badge&logo=riot-games&logoColor=white" alt="Valorant Tracker Stats"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198254451484">
-    <img src="https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://r6.tracker.network/r6siege/profile/ubi/pronaaf2k/overview">
-    <img src="https://img.shields.io/badge/R6%20Tracker-Stats-00AAFF?style=for-the-badge&logo=ubisoft&logoColor=white" alt="R6 Tracker Stats"/>
-  </a>
-</p>
-
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
