@@ -3,10 +3,25 @@
 </p>
 
 <p align="center">
-  <a href="mailto:benaaf2000@gmail.com">📧 benaaf2000@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/samiyeel-alim-binaaf">LinkedIn</a> •
-  <a href="https://github.com/Pronaaf2k">GitHub</a>
+  <a href="mailto:benaaf2000@gmail.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      width="20"
+      alt="Email"/>
+    &nbsp;benaaf2000@gmail.com
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/samiyeel-alim-binaaf" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="20"
+      alt="LinkedIn"/>
+    &nbsp;Samiyeel Alim Binaaf
+  </a>
 </p>
+
+
+
 
 ---
 
@@ -38,6 +53,7 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
   <img src="https://img.shields.io/badge/SketchBook-1093FF?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk SketchBook"/>
 </p>
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -54,10 +70,11 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&hide_border=true&theme=tokyonight"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
 </p>
+
 
 ---
 
@@ -78,4 +95,3 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 <p align="center">
   ✨ Thanks for stopping by! ✨
 </p>
-
