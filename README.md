@@ -70,9 +70,7 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&hide_border=true&theme=tokyonight&token=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"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&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"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
