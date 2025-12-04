@@ -83,27 +83,26 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/>
   
 </div>
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=false"/>
   
 </div>
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Pronaaf2k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=Pronaaf2k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
   
 </div>
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Pronaaf2k/Pronaaf2k/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Pronaaf2k/Pronaaf2k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
