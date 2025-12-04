@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI+ML+Engineer+🤖;Full-Stack+Developer+💻;Accessibility+Advocate+♿;EdTech+Enthusiast+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI+ML+Engineer+🤖;Full-Stack+Developer+💻;Accessibility+Advocate+♿;EdTech+Enthusiast+📚" />
 </p>
 
 <p align="center">
