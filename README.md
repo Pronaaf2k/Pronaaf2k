@@ -140,9 +140,8 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-  
+
   <p>✨ Thanks for stopping by! ✨</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
   
 </div>
