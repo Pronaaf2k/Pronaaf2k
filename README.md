@@ -20,6 +20,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI+ML+Engineer+🤖;Full-Stack+Developer+💻;Accessibility+Advocate+♿;EdTech+Enthusiast+📚" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pronaaf2k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 
 
@@ -58,6 +66,8 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project                                          | Description                                                       | Tech Stack                              |
 |--------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------|
 | [**EDUTrack**](https://github.com/Pronaaf2k/EDUTrack)       | Web-based records & data system for North South University         | React · Vite · Tailwind · Firebase       |
@@ -65,17 +75,43 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 | [**SuperResAI**](https://github.com/Pronaaf2k/SuperResAI)   | Image super-resolution pipeline to restore & enhance quality       | Python · Jupyter · ML                   |
 | [**QuickSight**](https://github.com/Pronaaf2k/QuickSight)   | Accessibility app for colorblind & visually impaired users         | Flutter · Python · AI image-to-text      |
 
+</div>
+
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide=issues"/>
+  
+</div>
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Pronaaf2k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Pronaaf2k/Pronaaf2k/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ---
 
 ## 🎧 Spotify & 🎮 Gaming
+
+<div align="center">
 
 #### 🎧 Recently Played
 <a href="https://open.spotify.com/user/roqimbocza5854qug9swb16y9">
@@ -87,8 +123,26 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 [![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198254451484)
 [![R6 Tracker](https://img.shields.io/badge/R6%20Stats-00AAFF?style=for-the-badge&logo=ubisoft)](https://r6.tracker.network/r6siege/profile/ubi/pronaaf2k/overview)
 
+</div>
+
 ---
 
-<p align="center">
-  ✨ Thanks for stopping by! ✨
-</p>
+<div align="center">
+  
+  ### 💬 Connect with me:
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benaaf2000@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiyeel-alim-binaaf)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pronaaf2k)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  
+  <p>✨ Thanks for stopping by! ✨</p>
+  
+</div>
