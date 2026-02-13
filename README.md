@@ -118,7 +118,6 @@ I’m a CSE undergrad at North South University passionate about AI/ML, accessib
 </a>
 
 #### 🎮 Gamer Profiles
-[![Valorant Tracker](https://img.shields.io/badge/Valorant%20Stats-F04F54?style=for-the-badge&logo=riot-games)](https://tracker.gg/valorant/profile/riot/pronaaf2k%232000/overview)
 [![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198254451484)
 [![R6 Tracker](https://img.shields.io/badge/R6%20Stats-00AAFF?style=for-the-badge&logo=ubisoft)](https://r6.tracker.network/r6siege/profile/ubi/pronaaf2k/overview)
 
