@@ -1,145 +1,116 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!%20I'm%20Samiyeel%20👋&fontSize=36&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=130&section=header&text=Samiyeel%20Alim%20Binaaf&fontSize=34&fontAlignY=40&fontColor=ffffff" alt="Samiyeel Alim Binaaf header" />
+</p>
+
+<h3 align="center">AI/ML Engineer & Full-Stack Developer</h3>
+
+<p align="center">
+  Builder brain. Full-stack hands. I build systems, interfaces, and AI experiments with a bias toward sharp UI, useful data, and things that feel personal.
 </p>
 
 <p align="center">
-  <a href="mailto:benaaf2000@gmail.com" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-      width="20"
-      alt="Email"/>
-    &nbsp;benaaf2000@gmail.com
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/samiyeel-alim-binaaf" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="20"
-      alt="LinkedIn"/>
-    &nbsp;Samiyeel Alim Binaaf
-  </a>
+  <a href="https://samiyeelalim.com/">Portfolio</a>
+  &nbsp;/&nbsp;
+  <a href="mailto:benaaf2000@gmail.com">Email</a>
+  &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/samiyeelalimbinaaf/">LinkedIn</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/Pronaaf2k">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI+ML+Engineer+🤖;Full-Stack+Developer+💻;Accessibility+Advocate+♿;EdTech+Enthusiast+📚" />
+  <img src="https://komarev.com/ghpvc/?username=Pronaaf2k&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pronaaf2k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
 
+## About
 
+I am a CSE undergraduate at North South University focused on AI/ML, full-stack web, accessibility, and production systems. I like projects with live data, clean UI, and one memorable hook.
 
+Currently tuning: portfolio systems, Spotify experiments, payment flows, accessibility tools, and deployment workflows.
+
+- Building production web infrastructure with React, Node, Express, PostgreSQL, Stripe, and deployment workflows.
+- Exploring AI/ML projects with Python, TensorFlow, PyTorch, NumPy, and Pandas.
+- Designing inclusive education and accessibility tools with product thinking, not just code.
+- Turning competitive instincts into disciplined iteration, testing, and optimization.
 
 ---
 
-## 🧑‍💻 About Me
-I’m a CSE undergrad at North South University passionate about AI/ML, accessibility, and full-stack web. I build:
-- **Inclusive EdTech & accessibility apps** (Flutter, React, Python)  
-- **Data pipelines & scrapers** (Spotify, web data)  
-- **Deep-learning experiments** (TensorFlow, PyTorch)
+## Selected Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [VoloLeads](https://vololeads.com/) | Placeholder site turned into operating business infrastructure: subscriptions, strategy-call booking, webhooks, PostgreSQL state, transactional email, billing self-service, lifecycle cron jobs, analytics, and cPanel deployment. | Node.js, Express, PostgreSQL, Stripe, Tailwind |
+| [EDUTrack](https://github.com/Pronaaf2k/EDUTrack) | Web-based records and data system for North South University workflows. | React, Vite, Tailwind, Firebase |
+| [ACADEMIQ](https://github.com/Pronaaf2k/ACADEMIQ) | Research-focused AI student management system exploring prediction, personalization, and education infrastructure. | HTML, Python, TensorFlow, PyTorch |
+| [SuperResAI](https://github.com/Pronaaf2k/SuperResAI) | Image super-resolution pipeline for restoring and enhancing low-resolution visuals. | Python, Jupyter, TensorFlow, PyTorch |
+| [QuickSight](https://github.com/Pronaaf2k/QuickSight) | Accessibility app concept for colorblind and visually impaired users using mobile UI and AI image-to-text. | Flutter, Python, Firebase |
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
-| Languages               | Frameworks & Tools                                                                                                     | AI & Data                          |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> ReactJS           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24"/> TensorFlow  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JS/TS   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24"/> Flutter        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24"/> PyTorch     |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java      | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" width="24" alt="Tailwind CSS"/> Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24"/> NumPy        |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="24"/> Firebase        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24"/> Pandas      |
-
----
-
-## 🎨 Design and Creativity Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" alt="Krita"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere&logoColor=white" alt="Adobe Premiere Pro"/>
-  <img src="https://img.shields.io/badge/SketchBook-1093FF?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk SketchBook"/>
-</p>
-
+| Build | AI / Data | Product | Creative / Ship |
+| --- | --- | --- | --- |
+| React, Node.js, Express | Python, TensorFlow, PyTorch | Stripe, SMTP, analytics | Git, Markdown, Vercel |
+| TypeScript, JavaScript | NumPy, Pandas, Jupyter | PostgreSQL, Firebase | Cloudflare, Netlify, cPanel |
+| Tailwind CSS, HTML5 | Research prototypes | Billing flows, cron jobs | Krita, Illustrator, Premiere Pro |
 
 ---
 
-## 🚀 Featured Projects
+## Signals
+
+- Top 20 out of 900 teams in my first hackathon, Solvio AI Hackathon 2025.
+- Full-Stack Developer contract work with VoloLeads, turning static presence into business infrastructure.
+- Former CMO at Discount Den, which shaped how I think about positioning, launches, and product memory.
+- Private tutor for Cambridge O-Level and Pre O-Level math/science, feeding my interest in EdTech.
+
+---
+
+## GitHub Stats
 
 <div align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Samiyeel's GitHub stats" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Samiyeel's top languages" />
+</div>
 
-| Project                                          | Description                                                       | Tech Stack                              |
-|--------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------|
-| [**EDUTrack**](https://github.com/Pronaaf2k/EDUTrack)       | Web-based records & data system for North South University         | React · Vite · Tailwind · Firebase       |
-| [**ACADEMIQ**](https://github.com/Pronaaf2k/ACADEMIQ)       | AI-powered, scalable student systems for universities *(research)* | HTML · AI Concepts                      |
-| [**SuperResAI**](https://github.com/Pronaaf2k/SuperResAI)   | Image super-resolution pipeline to restore & enhance quality       | Python · Jupyter · ML                   |
-| [**QuickSight**](https://github.com/Pronaaf2k/QuickSight)   | Accessibility app for colorblind & visually impaired users         | Flutter · Python · AI image-to-text      |
+<div align="center">
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=false" alt="Samiyeel's GitHub streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pronaaf2k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub profile trophies" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pronaaf2k/Pronaaf2k/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/>
-  
-</div>
-
-<div align="center">
-  
-  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=false"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Pronaaf2k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophy" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Pronaaf2k/Pronaaf2k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-</div>
-
----
-
-## 🎧 Spotify & 🎮 Gaming
+## Beyond Code
 
 <div align="center">
 
-#### 🎧 Recently Played
+### Recently Played
+
 <a href="https://open.spotify.com/user/roqimbocza5854qug9swb16y9">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=5&width=600"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=roqimbocza5854qug9swb16y9&count=5&width=600" alt="Recently played Spotify tracks" />
 </a>
 
-#### 🎮 Gamer Profiles
-[![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198254451484)
-[![R6 Tracker](https://img.shields.io/badge/R6%20Stats-00AAFF?style=for-the-badge&logo=ubisoft)](https://r6.tracker.network/r6siege/profile/ubi/pronaaf2k/overview)
+Outside code, I enjoy competitive FPS games, music, and the process of getting a little better every session.
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💬 Connect with me:
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benaaf2000@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiyeel-alim-binaaf)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pronaaf2k)
-  
-</div>
-
----
-
-<div align="center">
-
-  <p>✨ Thanks for stopping by! ✨</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-  
+  <p><strong>Developer, builder, and chronic optimizer.</strong></p>
+  <p>
+    <a href="https://samiyeelalim.com/">samiyeelalim.com</a>
+    &nbsp;/&nbsp;
+    <a href="mailto:benaaf2000@gmail.com">benaaf2000@gmail.com</a>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=65&section=footer" alt="Footer wave" />
 </div>
