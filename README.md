@@ -70,22 +70,32 @@ Currently tuning: portfolio systems, Spotify experiments, payment flows, accessi
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Pronaaf2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Samiyeel's GitHub stats" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronaaf2k&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Samiyeel's top languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pronaaf2k&theme=tokyonight&name=Samiyeel%20Alim%20Binaaf" alt="Samiyeel's GitHub profile summary" />
+  </a>
+</p>
 
-<div align="center">
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pronaaf2k&theme=tokyonight&hide_border=false" alt="Samiyeel's GitHub streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pronaaf2k&theme=tokyonight" alt="Samiyeel's repositories by language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pronaaf2k&theme=tokyonight" alt="Samiyeel's GitHub statistics" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pronaaf2k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub profile trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=Pronaaf2k&theme=tokyonight&hide_border=true&border_radius=6" alt="Samiyeel's GitHub contribution streak" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pronaaf2k/Pronaaf2k/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
-</div>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pronaaf2k&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Contribution%20Activity" alt="Samiyeel's recent GitHub contribution activity" />
+  </a>
+</p>
 
 ---
 
